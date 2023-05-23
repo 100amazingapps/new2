@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101598264304",
+    "project_id": "paisa-loan-ccf9a",
+    "storage_bucket": "paisa-loan-ccf9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101598264304:android:5af81c5bf9979b93e7fb35",
+        "android_client_info": {
+          "package_name": "com.paisaloan.aadharcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101598264304-100lq3gaai2sa8qp3fh20v83atrgsf3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Kuj46cLzgLqrnSkveyfCy8PvAAL4O2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101598264304-100lq3gaai2sa8qp3fh20v83atrgsf3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
